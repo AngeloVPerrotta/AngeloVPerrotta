@@ -1,16 +1,45 @@
-## Hi there 👋
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250"/>
+</p>
 
-<!--
-**AngeloVPerrotta/AngeloVPerrotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola, Soy Angelo 
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-perrotta/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apasionado por el desarrollo, la automatización y el análisis de datos. 
+Cuento con experiencia en soporte técnico, gestión de proyectos como Project Manager en TrainIT y desarrollo de agentes de IA en Botmaker.
+Me enfoco en resolver problemas de forma estructurada y en la mejora continua de procesos.
+
+<br>
+### Tech Stack
+
+```json
+{
+  "lenguajes": ["C#", "Python", "SQL", "JavaScript", "C/C++", "HTML"],
+  "herramientas": ["Git", "GitHub", "SAP", "Power BI", "Excel", "Looker Studio"],
+  "metodologias": ["Scrum", "Kanban", "Agile Testing"],
+  "testing": ["Cypress", "QA Manual", "QA Automatizado", "API Testing"]
+}
+```
+
+</br>
+
+### Github Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sajidul-kabir&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
+<br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngeloVPerrotta&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Angelo Perrotta Github Stats">
+
+<br />
+
+### Acerca de:
+
+- 🔭 Actualmente trabajo en: Diseño y desarrollo de agentes de IA en Botmaker.
+- 🌱 Estoy aprendiendo: Nuevas tecnologías aplicadas al análisis de datos y automatización.
+- 👯 Busco colaborar en: Proyectos de desarrollo de software y análisis funcional.
+- 🤔 Busco ayuda con: Profundizar en arquitectura de sistemas y gestión de grandes bases de datos.
+- 💬 Consultame sobre: SQL, C#, soporte técnico e implementación de herramientas de automatización.
+- ⚡ Dato curioso: Me gusta analizar partidas de ajedrez en mi tiempo libre.
+
+Última edición: 11/03/2026
