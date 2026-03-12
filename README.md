@@ -41,6 +41,6 @@ Me enfoco en resolver problemas de forma estructurada y en la mejora continua de
 - 👯 Busco colaborar en: Proyectos de desarrollo de software y análisis funcional.
 - 🤔 Busco ayuda con: Profundizar en arquitectura de sistemas y gestión de grandes bases de datos.
 - 💬 Consultame sobre: SQL, C#, soporte técnico e implementación de herramientas de automatización.
-- ⚡ Dato curioso: Me gusta analizar partidas de ajedrez en mi tiempo libre.
+- ⚡ Dato de color: Me gusta analizar partidas de ajedrez en mi tiempo libre.
 
 Última edición: 11/03/2026
