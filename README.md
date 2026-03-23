@@ -30,8 +30,6 @@ Me enfoco en resolver problemas de forma estructurada y en la mejora continua de
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sajidul-kabir&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngeloVPerrotta&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Angelo Perrotta Github Stats">
-
 <br />
 
 ### Acerca de:
