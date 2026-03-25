@@ -9,7 +9,7 @@
 Apasionado por el desarrollo, la automatización y el análisis de datos. 
 Cuento con experiencia en soporte técnico, gestión de proyectos como Project Manager en TrainIT y desarrollo de agentes de IA en Botmaker.
 Me enfoco en resolver problemas de forma estructurada y en la mejora continua de procesos.
-
+ 
 <br>
 
 ### Tech Stack
